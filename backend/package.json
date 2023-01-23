@@ -1,0 +1,19 @@
+{
+  "name": "aws-appsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmjr1213/AWS_APPSYNC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmjr1213/AWS_APPSYNC/issues"
+  },
+  "homepage": "https://github.com/Bmjr1213/AWS_APPSYNC#readme"
+}
