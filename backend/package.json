@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Bmjr1213/AWS_APPSYNC.git"
   },
-  "author": "",
+  "author": "Brendon Rongcales",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Bmjr1213/AWS_APPSYNC/issues"
   },
-  "homepage": "https://github.com/Bmjr1213/AWS_APPSYNC#readme"
+  "homepage": "https://github.com/Bmjr1213/AWS_APPSYNC#readme",
+  "dependencies": {
+    "serverless-appsync-plugin": "^1.14.0"
+  }
 }

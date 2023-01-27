@@ -83,7 +83,7 @@ cognitoAdminIAMRole:
               - "cognito-identity.amazonaws.com"
           Action: 
             - "sts:AssumeRoleWithWebIdentity"
-    Description: "This is the IAM role that admin group"
+    Description: "This is the IAM role that admin group assume"
     Policies: 
       - PolicyName: "youtube-bookstore-admin-group-policy"
         PolicyDocument:
